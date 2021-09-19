@@ -1,3 +1,10 @@
+# Author: Nina Argade
+# Date: 9/19/2021
+# Description: This text file contains records of the global land-ocean temperature index for each year since 1880. The
+# temperature index indicates relative changes in temperature during that year. A positive index indicates relative
+# warmth, whereas a negative index indicates relative coolness. This data was obtained from NASA, at the following
+# webpage: https://climate.nasa.gov/vital-signs/global-temperature/
+
 Land-Ocean Temperature Index (C)
 --------------------------------
 
