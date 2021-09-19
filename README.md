@@ -1,4 +1,4 @@
-Beaverhacks Fall2021: Quarterly hackathon with theme focused on climate change/energy
+Beaverhacks Fall 2021: Quarterly hackathon with theme focused on climate change/energy
 
 This program reads the attached graph text file to extract the necessary data points of years and corresponding
 global land-ocean temperature indices. The text file contains records of the global land-ocean temperature index for 
